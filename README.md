@@ -55,10 +55,10 @@ Todos mis proyectos se pueden encontrar en mis diversos repositorios. No obstant
 
 # Mario Ramos 🎓
 
-Hello, I am a computer engineering student at Universidad Carlos III de Madrid (UC3M). During my time in the degree, I have covered areas ranging from artificial intelligence (AI) to microprogramming and assembly with RISC-V.
+Hello, I am a computer science student at the Universidad Carlos III de Madrid (UC3M). During my time in the degree, I have covered areas ranging from artificial intelligence (AI) to microprogramming and assembly with RISC-V.
 Throughout this period, I have also worked on the development of a video game, created a mini-shell in C, conducted an analytical study in R, and worked on many other interesting projects that you can find in my profile.
 
-My current focus is on learning about distributed systems and acquiring knowledge related to artificial intelligence and machine learning. Additionally, I have a public repository where you can check out all the personal projects I have worked on over time, ranging from very simple programs to some more complex and fun ones.
+My current focus is on learning about distributed systems and acquiring knowledge related to artificial intelligence and machine learning. Additionally, I have a public repository where you can check out all the personal projects I have worked on over time, ranging from very simple programs to some more complex and fun.
 
 ---
 
