@@ -47,7 +47,7 @@ Todos mis proyectos se pueden encontrar en mis diversos repositorios. No obstant
 - [1942-game](https://github.com/maariooors/UC3M/tree/main/1942-game): Una versión simplificada del juego de aviones arcade "1942".
 - [mini-shell](https://github.com/maariooors/UC3M/tree/main/operating-systems/mini-shell): Una versión simplificada de una shell de comandos escrita en C.
 - [spotify-api](https://github.com/maariooors/mini-projects/tree/main/basic-spotify-api): Escrito en Rust, permite acceder a diversas funciones de la API de spotify para conseguir estadísticas de autores y canciones.
-- [std-http](https://github.com/maariooors/mini-projects/tree/main/std-http): (En desarrollo). Consiste en una implementación muy temprana de un servidor escrito en Rust, haciendo uso exclusivo de la librería estándar. Se encarga de gestionar peticiones y respuestas HTTP, junto con el control de las conexiones TCP/IP y el envío básico de ficheros HTML.
+- [std-http](https://github.com/maariooors/std-http): (En desarrollo). Consiste en una implementación muy temprana de un servidor escrito en Rust, haciendo uso exclusivo de la librería estándar. Se encarga de gestionar peticiones y respuestas HTTP, junto con el control de las conexiones TCP/IP y el envío básico de ficheros HTML.
 
 ### Contacto 📧
 
@@ -100,6 +100,6 @@ All my projects can be found in my various repositories. However, there are two 
 - [1942-game](https://github.com/maariooors/UC3M/tree/main/1942-game): A simplified version of the arcade airplane game "1942".
 - [mini-shell](https://github.com/maariooors/UC3M/tree/main/operating-systems/mini-shell): A simplified version of a command shell written in C.
 - [spotify-api](https://github.com/maariooors/mini-projects/tree/main/basic-spotify-api): Written in Rust, it allows access to various functions of the Spotify API to retrieve statistics on artists and songs.
-- [std-http](https://github.com/maariooors/mini-projects/tree/main/std-http): (In development). It is an early implementation of a server written in Rust, making exclusive use of the standard library. It handles HTTP requests and responses, along with controlling TCP/IP connections and basic HTML file sending.
+- [std-http](https://github.com/maariooors/std-http): (In development). It is an early implementation of a server written in Rust, making exclusive use of the standard library. It handles HTTP requests and responses, along with controlling TCP/IP connections and basic HTML file sending.
 
 ### Contact 📧
